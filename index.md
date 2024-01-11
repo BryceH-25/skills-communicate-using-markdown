@@ -5,3 +5,9 @@ Then this is just regular text
 
 
 ![Image of Spongebob](https://upload.wikimedia.org/wikipedia/en/3/3b/SpongeBob_SquarePants_character.svg)
+
+
+
+``` javascript
+var hi = 'Hello, world!';
+```
