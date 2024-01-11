@@ -4,6 +4,4 @@ Then this is just regular text
 
 
 
-
-
-This was just to test the different headers and sizes
+![Image of Spongebob](https://upload.wikimedia.org/wikipedia/en/3/3b/SpongeBob_SquarePants_character.svg)
