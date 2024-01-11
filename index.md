@@ -11,3 +11,8 @@ Then this is just regular text
 ``` javascript
 var hi = 'Hello, world!';
 ```
+
+
+- [ ] Go to the grocery store
+- [ ] Clean my room
+- [ ] Walk the dog
